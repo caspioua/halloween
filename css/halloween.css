@@ -21,9 +21,9 @@ h2, h3, h4, h5, h6 {
 
 a.vote_button {
   background-color: #5e32ba;
-  color: #bfda7a;
+  color: #bfda7a !important;
   padding: .5em 1em;
   border-radius: 4px;
-  text-decoration: none;
+  text-decoration: none !important;
   text-transform: uppercase;
 }
