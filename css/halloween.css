@@ -19,7 +19,7 @@ h2, h3, h4, h5, h6 {
   color: #96C457;
 }
 
-.vote_button {
+a.vote_button {
   background-color: #5e32ba;
   color: #bfda7a;
   padding: .5em 1em;
