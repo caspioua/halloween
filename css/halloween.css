@@ -3,11 +3,11 @@ body {
   color: #777;
 }
 
-a {
+a, .auth-user a {
   color: #E9804D;
 }
 
-a:hover {
+a:hover, .auth-user a:hover {
   color: #EB6123;
 }
 
