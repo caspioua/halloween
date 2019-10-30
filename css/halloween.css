@@ -27,3 +27,7 @@ a.vote_button {
   text-decoration: none !important;
   text-transform: uppercase;
 }
+
+.cbFormTableRow {
+  background-color: #18181a !important;
+}
