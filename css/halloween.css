@@ -28,6 +28,6 @@ a.vote_button {
   text-transform: uppercase;
 }
 
-.cbFormTableRow {
+.cbFormTableRow, .cbFormTableEvenRow {
   background-color: #18181a !important;
 }
