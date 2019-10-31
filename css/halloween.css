@@ -22,11 +22,16 @@ h2, h3, h4, h5, h6 {
 
 a.vote_button {
   background-color: #5e32ba;
-  color: #bfda7a !important;
+  color: #96c457 !important;
   padding: .5em 1em;
   border-radius: 4px;
   text-decoration: none !important;
   text-transform: uppercase;
+}
+
+a.vote_button:hover {
+  box-shadow: 0px 2px 5px RGB(94, 50, 186);
+  color: #bfda7a;
 }
 
 .cbFormTableRow, .cbFormTableEvenRow {
