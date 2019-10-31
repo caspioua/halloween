@@ -31,7 +31,7 @@ a.vote_button {
 
 a.vote_button:hover {
   box-shadow: 0px 2px 5px RGB(94, 50, 186);
-  color: #bfda7a;
+  color: #bfda7a !important;
 }
 
 .cbFormTableRow, .cbFormTableEvenRow {
