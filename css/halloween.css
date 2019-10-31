@@ -13,6 +13,7 @@ a:hover, .auth-user a:hover {
 
 h1 {
   color: #5E32BA;
+  text-shadow: 0px 2px 5px RGB(94, 50, 186);
 }
 
 h2, h3, h4, h5, h6 {
